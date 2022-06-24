@@ -1,0 +1,7 @@
+{
+  "name": "SanteLeMatch",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

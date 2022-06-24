@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SantaLeMatch",
+    "slug": "SantaLeMatch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SantaLeMatch"
+}
